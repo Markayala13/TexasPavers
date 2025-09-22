@@ -1,0 +1,32 @@
+{
+  "pages": {
+    "home": {
+      "title": "Custom Pools & Pavers in Texas | Texas Pool & Pavers",
+      "description": "Top-rated specialists in custom swimming pools, elegant paver driveways, and luxury outdoor living spaces in Texas. Professional pool construction, hardscaping, BBQ islands, fire pits, and covered patios. Get your free quote today!",
+      "path": "/",
+      "priority": "1.0",
+      "changefreq": "weekly"
+    },
+    "contact": {
+      "title": "Contact Us | Get a Free Quote | Texas Pool & Pavers",
+      "description": "Ready to start your project? Contact Texas Pool & Pavers today for a free, no-obligation quote on our pool and hardscaping services. Call us or fill out our form!",
+      "path": "/contact",
+      "priority": "0.8",
+      "changefreq": "monthly"
+    },
+    "gallery": {
+      "title": "Project Gallery | Texas Pool & Pavers",
+      "description": "Browse our gallery of completed projects. See our quality work in custom pools, pavers, patios, and outdoor living spaces across Texas.",
+      "path": "/gallery",
+      "priority": "0.9",
+      "changefreq": "monthly"
+    },
+    "services": {
+      "title": "All Services - From Excavation to Finishing | Texas Pool & Pavers",
+      "description": "Explore our full range of services: custom pools, paving, hardscaping, BBQ islands, fire pits, full construction, and more. Quality craftsmanship for your Texas home.",
+      "path": "/our-services",
+      "priority": "0.9",
+      "changefreq": "monthly"
+    }
+  }
+}

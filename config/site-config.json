@@ -1,0 +1,68 @@
+{
+  "site": {
+    "name": "Texas Pool & Pavers",
+    "url": "https://texaspoolandpavers.com",
+    "domain": "texaspoolandpavers.com",
+    "author": "Texas Pool & Pavers",
+    "creator": "Texas Pool & Pavers",
+    "publisher": "Texas Pool & Pavers"
+  },
+  "business": {
+    "name": "Texas Pool & Pavers",
+    "alternateName": "Texas Pool and Pavers",
+    "telephone": "+1-210-374-2779",
+    "email": "texaspoolandpavers@gmail.com",
+    "priceRange": "$$$",
+    "address": {
+      "streetAddress": "11631 Culebra Rd",
+      "addressLocality": "San Antonio",
+      "addressRegion": "TX",
+      "postalCode": "78253",
+      "addressCountry": "US"
+    },
+    "coordinates": {
+      "latitude": 29.51369998208207,
+      "longitude": -98.71429368489864
+    },
+    "hours": {
+      "weekdays": {
+        "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "08:00",
+        "closes": "18:00"
+      },
+      "saturday": {
+        "opens": "09:00",
+        "closes": "16:00"
+      }
+    },
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/profile.php?id=61560989897082&mibextid=LQQJ4d"
+    },
+    "serviceAreas": [
+      "San Antonio",
+      "Stone Oak",
+      "Fair Oaks Ranch",
+      "Boerne",
+      "Helotes"
+    ],
+    "services": [
+      "Pool Construction",
+      "Paver Installation",
+      "Hardscaping",
+      "BBQ Islands",
+      "Fire Pits",
+      "Covered Patios",
+      "Outdoor Living Spaces"
+    ]
+  },
+  "seo": {
+    "commonKeywords": "custom pools Texas, paver driveways, pool construction, hardscaping, BBQ islands, fire pits, covered patios, outdoor living, San Antonio pools, Texas pavers",
+    "baseDescription": "Top-rated specialists in custom swimming pools, elegant paver driveways, and luxury outdoor living spaces in Texas. Professional pool construction, hardscaping, BBQ islands, fire pits, and covered patios.",
+    "ogImage": {
+      "url": "/assets/images/logos/PAVERS LOGO.PNG",
+      "width": "1200",
+      "height": "630",
+      "alt": "Texas Pool & Pavers Logo"
+    }
+  }
+}
